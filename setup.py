@@ -1,8 +1,5 @@
 import os
 os.system("pip3 install requests")
-os.system("pip3 install sys")
-os.system("pip3 install json")
-os.system("pip3 install socket")
 os.system("pip3 install datetime")
 os.system("pip3 install shodan")
 os.system("pip3 install BeautifulSoup")
