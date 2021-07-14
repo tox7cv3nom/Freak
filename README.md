@@ -10,6 +10,10 @@
 
 **Usage**: python3 freak.py
 
+
+**warning**
+    This tool will throw error if you doesn't provide valid api key 
+
 **Mechanism**
 
 ### CMS detection
