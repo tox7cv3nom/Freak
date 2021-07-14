@@ -1,0 +1,14 @@
+webadmin.php
+wp-login.php
+config.php
+.git
+.htaccess
+cgi-bin
+wp-json
+admin 
+backup
+xmlrpc.php
+administrator
+readme.html
+.env
+crossdomain.xml
