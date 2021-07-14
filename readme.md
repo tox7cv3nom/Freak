@@ -30,7 +30,8 @@
 ### DNS records
  Fetch all dns records of web application [mx, host, txt, dns]  
  
- 
+**warning**
+    This tool will throw error if you doesn't provide valid api key 
  
  
  
