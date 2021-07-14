@@ -34,7 +34,10 @@ python3 freak.py
   fetch all the URL from wayback machine or which are archieved by administrator
   
 ### DNS records
- Fetch all dns records of web application [mx, host, txt, dns]  
+ Fetch all dns records of web application 
+ - txt records
+ - host records
+ - mx records
  
 **warning**
     This tool will throw error if you doesn't provide valid api key 
