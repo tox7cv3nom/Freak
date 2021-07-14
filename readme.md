@@ -13,7 +13,7 @@
 **Mechanism**
 
 ### CMS detection
-  Detect the CMS and its version used in thw web application
+  Detect the CMS and its version used in the web application
 
 ### crawling
   crawl the webpage and find sensitive files like .git, wp-json, xmlrpc, crossdomain, etc.
