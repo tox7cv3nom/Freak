@@ -8,7 +8,9 @@
 
 <h4 align="center">Recon Suite designed for passive recon</h4>
 
-**Usage**: python3 freak.py
+**Usage**: 
+python3 setup.py
+python3 freak.py
 
 
 **warning**
