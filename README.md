@@ -21,8 +21,8 @@ python3 freak.py
 ### CMS detection
   Detect the CMS and its version used in the web application
 
-### crawling
-  crawl the webpage and find sensitive files like .git, wp-json, xmlrpc, crossdomain, etc.
+### FUZZING
+  Fuzz the basic vulnerable directory and find sensitive files like .git, wp-json, xmlrpc, crossdomain, etc.
   
 ### javascript fetching
   fetch all the javascript files used in the webpage and displays on terminal
