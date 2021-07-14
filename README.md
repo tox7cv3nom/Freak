@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Recon Suite designed for passive recon</h4>
+<h4 align="center">Suite designed for passive recon</h4>
 
 **Usage**: 
 python3 setup.py
